@@ -4,10 +4,20 @@
   justify-content: space-between;
 }
 
+.ptext  {
+  display: flex;
+  padding-top: 1vw;
+  padding-left: 10vw;
+  width: 68vw;
+  font-size: 1.225em;
+  line-height: 1.68;
+  color: gray;
+}
+
 .App-logo {
-  height: 5vmin;
+  height: 10vmin;
   width: auto;
-  padding-left: 2vw;
+  padding-left: 10vw;
   padding-top: 2vh;
 }
 
@@ -22,7 +32,7 @@
 
 .container {
   min-height: 50vh;
-  width: 100vw;
+  /* width: 100vw; */
   margin-top: 25vh;
   padding-bottom: 15vh;
   justify-content: center;
@@ -33,7 +43,8 @@
 .post-box {
   background: #fff;
   padding: 40px 40px 40px;
-  margin-top: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
   -ms-border-radius: 10px;
   border-radius: 10px;
   box-shadow: 0 0 90px rgba(0, 0, 0, 0.1);
@@ -82,17 +93,14 @@
 }
 
 .jobs-footer {
-  background-color:#0056da;
+  background-color: #0056da;
   position: fixed;
-  bottom: 0px;
-  margin: 0px;
   display: flex;
-  flex: 1;
-  width: 100vw;
-  height: 10vh;
+  width: 100%;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
   align-items: center;
+  bottom: 0px;
 }
 
 .footer-title {

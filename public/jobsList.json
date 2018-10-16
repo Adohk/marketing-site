@@ -1,0 +1,103 @@
+{
+	"jobs":[
+	{
+		"title": "Python Developer ($85-120k)",
+		"location": "Montreal, QC",
+		"description":
+			"A blockchain technology company is looking for a programmer proficient in Python, Django, MySQL, and Linux.",
+		"requirements": [
+			"- Expert in Python and its libraries including Django (asset)",
+			"- Solve complex problems with innovative and elegant design and deliver robust functionality on time",
+			"- Experience with NoSQL technologies (MongoDB, Redis, Cassandra, Hadoop, Hive, HBase)",
+			"- Experience with RDBMS (e.g. MySQL) and ability to write efficient queries with optimal structures",
+			"- Competently evaluate scalability trade-offs (memory, disk IO, CPU) for high volume systems",
+			"- Knowledge of OOP and scalable design patterns - BS in Computer Science or equivalent",
+			"- Excellent interpersonal skills and a sense of humour.",
+			"\n What Python will be used for: \nPython is used for quick development where ideas must be evaluated rapidly or applications built on aggressive time frames. Sometimes programs are left in Python. Where execution speed is paramount, Python is used to prove the concept and then is moved to C++. Python is used for all scripting and quick fixes."
+		],
+		"responsibilities": null,
+		"personalTraits": null
+	},
+	{
+		"title": "C++ Developer ($85-120k)",
+		"location": "Montreal, QC",
+		"description":
+			"We have a new need for a couple of Developers with strong C++ development experience. This opportunity is with a fantastic company in Montreal. They are looking for Developers who enjoy being involved in the entire software development cycle. They offer a fun environment to work in where the life to work ratio is healthily respected, where camaraderie among colleagues is common-place, and where people actually enjoy going into the office. Moreover, the technology you will be exposed to is fascinating, leading edge, and breaking new ground in the GIS space.",
+		"requirements": [
+			"• You must have experience working with C++",
+			"• Masters or Bachelors Degree in Computer Science or Computer Engineering",
+			"• We will consider recent grads and experienced professionals.",
+			"• It would be great if you have experience with data analysis tool(s)",
+			"• Experience with the entire SDLC, with an emphasis on Investigation and Analysis",
+			"• Proficient experience of working on Linux",
+			"• Knowledge of Real-time systems",
+			"• Your extensive experience network protocols is a bonus (TCP/IP, HTTP, etc.)"
+		],
+		"responsibilities": null,
+		"personalTraits": null
+	},
+	{
+		"title": "C++ Developer ($85-120k)",
+		"location": "Montreal, QC",
+		"description":
+			"We have a new need for a couple of Developers with strong C++ development experience. This opportunity is with a fantastic company in Montreal. They are looking for Developers who enjoy being involved in the entire software development cycle. They offer a fun environment to work in where the life to work ratio is healthily respected, where camaraderie among colleagues is common-place, and where people actually enjoy going into the office. Moreover, the technology you will be exposed to is fascinating, leading edge, and breaking new ground in the GIS space.",
+		"requirements": [
+			"- The successful C++ programmer will likely have a relevant strong experience with programming ideally with real-time systems, NLP, artificial intelligence and/or mathematical bias.",
+			"- Extensive C/C++ programming (current C++14 or 17 experience would be great)",
+			"- Solid experience with supervised learning models associated learning algorithms"
+		],
+		"responsibilities": [
+			"• Developing new applications based on predefined requirements",
+			"• Maintaining existing software by performing tweaks as required",
+			"• Writing, modifying, integrating, analyzing and testing the code",
+			"• Using benchmarking tools in order to evaluate and optimize the code",
+			"• Identifying and communicating all technical problems, processes and solutions you come across with relevant team members",
+			"• Assisting in the development of logical and physical specifications",
+			"• Researching and evaluating various software products that might be used by the organization"
+		],
+		"personalTraits": [
+			"• Excellent communication skills",
+			"• Dedication",
+			"• Demonstrated teamwork",
+			"• Self-motivation",
+			"• Strong problem solving skills",
+			"• Aptitude to learn and apply knowledge quickly"
+		]
+	},
+	{
+		"title":
+			"AI/NLP Python Developer (Salary is open for the right person.)",
+		"location": "Montreal, QC",
+		"description":
+			"We are seeking an AI/NLP Developer who will be able to handle core 'responsibilities' for the optimization, implementation and support of our client's natural language processing stack, Posibility of remote work.",
+		"requirements": [
+			"• Hold a Bachelor’s degree in Computer Science",
+			"• 5 + years experience developing and deploying software systems",
+			"• Have experience developing Python applications",
+			"• Feel comfortable with TensorFlow or PyTorch.",
+			"• Have working or academic experience implementing rule based NLP systems",
+			"• Understand what it takes to test NLP systems with natural language examples",
+			"• Understand concepts of Artificial Intelligence and Natural Language Processing(ASR)"
+		],
+		"responsibilities": null,
+		"personalTraits": [
+			"• Fundamentally believe in the automation of everything",
+			"• Consider fast paced, high - pressure startup organization a natural environment",
+			"• Work effectively independently as well as within a small cohesive team"
+		]
+	},
+	{
+		"title":
+			"FullStack Web Developers (Salaries are wide open depending on seniority.)",
+		"location": "Montreal, Ottawa, or Toronto.",
+		"description":
+			"Developers with experience in JavaScript, React, Angular, Ruby are of great interest to Shopify development.",
+		"requirements": [
+			"• Experience in developing application with any of the mentioned technologies.",
+			"• Experience with the Shopify platform."
+		],
+		"responsibilities": null,
+		"personalTraits": null
+	}
+	]
+}
